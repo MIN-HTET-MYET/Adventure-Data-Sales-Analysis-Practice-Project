@@ -1,11 +1,11 @@
-# 🧠 Adventure Data Warehouse Sales Analysis
+# Adventure Data Warehouse Sales Analysis
 
 A hands-on SQL learning project based on Microsoft’s **AdventureWorks Data Warehouse**.  
 This project explores sales performance, customer insights, and promotion analysis to strengthen SQL skills and understand how data warehouses support real-world business intelligence.
 
 ---
 
-## 🎯 Project Overview
+## Project Overview
 This project is part of my SQL learning journey.  
 I explored how to:
 - Write complex `SELECT`, `FROM`, and `WHERE` queries  
@@ -16,7 +16,7 @@ I explored how to:
 
 ---
 
-## 🗂️ Dataset
+## Dataset
 **Database:** AdventureWorksDW (Microsoft sample data warehouse)  
 
 **Tables most used:**
@@ -29,21 +29,21 @@ I explored how to:
 
 ---
 
-## 💡 Example Questions Solved
+## Example Questions Solved
 - Who is the customer that spent the most online (USD)?  
 - Which promotion generated the highest reseller sales (Euro)?  
 - What percentage of current employees are married vs single?   
 
 ---
 
-## 🧰 Tools & Skills
+## Tools & Skills
 - AzureDataStudio  
 - SQL Queries (Joins, Aggregations, Top, Ranking, Filters)  
 - Data Warehouse Concepts (Fact & Dimension Tables)
 
 ---
 
-## 📊 Key Learnings
+## Key Learnings
 This was my first hands-on SQL analytics project.  
 I learned how to break down business questions into logical queries, connect multiple tables, and turn raw data into meaningful insights.  
 Even though it was challenging at first to think about how to structure each query, getting the correct results made it a truly satisfying experience.
